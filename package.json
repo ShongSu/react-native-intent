@@ -1,0 +1,11 @@
+{
+    "name": "react-native-intent",
+    "version": "1.0.0",
+    "description": "For Android Only",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shongsu",
+    "license": "MIT"
+  }
